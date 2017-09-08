@@ -1,0 +1,24 @@
+https://www.npmjs.com/package/node-sass
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html#Variables_____variables_
+https://nodesource.com/blog/installing-nodejs-tutorial-windows/
+playground -> http://voidcanvas.com/es6-playgrounds-cli-browser-plugins/
+plunker - > https://plnkr.co/edit/veHl52UVp24jEmtPK9IK
+https://github.com/vasu34k123/Angular2
+https://github.com/angular/angular-cli
+https://cli.angular.io/
+https://angular.io/resources
+https://angular.io/tutorial/toh-pt4
+
+
+for bootstrap and css download  -> CDN network
+
+
+
+https://plnkr.co/edit/QWxD0DIZi6QiISafwfgu?p=preview
+life cycle: https://plnkr.co/edit/kBHV6AximaHAC26kYEOA?p=preview 
+Routing: https://plnkr.co/edit/pndyLc7LqvZ4WfhJPla5?p=preview 
+http://www.angulartypescript.com/angular-2-tutorial/ 
+
+
+
+hint: use npm and node

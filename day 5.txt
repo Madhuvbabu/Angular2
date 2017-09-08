@@ -1,0 +1,16 @@
+for events - @observable design pattern is used 
+one of the solid principle
+@injectable - dependency injection - decorater
+Splice --> means remove the element(binding and removing) in an array 
+pozo class - a class without any method
+SVG part of HTML 5 -- base64(image type)- Scalable vector graphics
+base components can read the data of child components
+[name] - modeldeclaration []
+(click) - event declaration ()
+
+
+how to create service in angular 
+ng service <service name>
+
+all services names created under providers in app.module.ts
+
